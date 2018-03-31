@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ChestX</string>
+    <string name="myuploads">My Uploads</string>
+    <string name="upload_image">Upload</string>
+    <string name="Search">Search</string>
+    <string name="settings">settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="country_array">
+        <item>Greece</item>
+        <item>United Kingdom</item>
+        <item>Italy</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Turkey</item>
+        <item>Poland</item>
+        <item>India</item>
+    </string-array>
+</resources>
